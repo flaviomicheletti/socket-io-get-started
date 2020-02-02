@@ -1,0 +1,23 @@
+{
+  "name": "flavio-socket-io-get-started",
+  "version": "1.0.0",
+  "description": "get started with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviomicheletti/socket-io-get-started.git"
+  },
+  "keywords": [
+    "socket.io",
+    "nodejs"
+  ],
+  "author": "Flávio Micheletti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviomicheletti/socket-io-get-started/issues"
+  },
+  "homepage": "https://github.com/flaviomicheletti/socket-io-get-started#readme"
+}
