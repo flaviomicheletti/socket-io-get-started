@@ -4,6 +4,7 @@
   "description": "get started with socket.io",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "npm test"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/flaviomicheletti/socket-io-get-started/issues"
   },
-  "homepage": "https://github.com/flaviomicheletti/socket-io-get-started#readme"
+  "homepage": "https://github.com/flaviomicheletti/socket-io-get-started#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
